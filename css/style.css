@@ -1,0 +1,37 @@
+body {
+	font: 14pt/1.5 Helvetica, Sans Serif;
+	margin: 0;
+	padding: 0;
+	color: #555;
+}
+
+header {
+	padding: 70px 0;
+	text-align: center;
+	background: #EFFAFF;
+}
+header .profile {
+	width: 200px;
+	height: 200px;
+	font-size: 230px;
+	background: #AFD6EC;
+	color: #82B7D4;
+	border-radius: 100%;
+	display: inline-block;
+	overflow: hidden;	
+}
+header h1 {
+	font-size: 3em;
+	color: #82B7D4;
+	font-weight: bold;
+}
+
+
+#about {
+	padding: 100px 0;
+}
+#about .content {
+	width: 700px;
+	min-height: 300px;
+	margin: auto;
+}
